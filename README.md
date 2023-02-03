@@ -10,7 +10,7 @@ The Application can perform following functions :
 
 # SnapShot
 
-<img src="Snapshot/SnapShot1.png">
+<img src="SnapShot/SnapShot1.png" height="500">
 
 
 ## Getting Started
