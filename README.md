@@ -1,6 +1,17 @@
-# todo
+# ToDo Application
 
-A new Flutter project.
+This is a ToDo Application made by using <img src ="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" height= "25" style="position:relative; top: 7px">
+
+The Application can perform following functions :
+- Create A ToDo List
+- Delete A ToDo Item
+- Add A ToDo Item
+- Search A Todo Item
+
+# SnapShot
+
+<img src="Snapshot/SnapShot1.png">
+
 
 ## Getting Started
 
